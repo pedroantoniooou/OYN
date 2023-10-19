@@ -6,8 +6,14 @@
 . Vale 7 pontos na AV1 /N1.
 
 
+
+
+
 . Descrição do projeto: Site html/css que aborda ajudar a organização em geral de uma ong.
 . Funcionalidades: Gerenciamento de membros, gerenciamento financeiro, gerenciamento de doações e doações de usuários.
+
+
+
 
 . Nome dos participantes
 . Pedro Antônio Silva Pedroso Beltrão - 01605602
